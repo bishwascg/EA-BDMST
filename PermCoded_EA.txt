@@ -1,0 +1,1 @@
+./Debug/main.c.o ./Debug/XOver.c.o ./Debug/mutation.c.o ./Debug/utility.c.o ./Debug/readBDMST.c.o ./Debug/calculateFitness.c.o ./Debug/selection.c.o   
